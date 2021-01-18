@@ -3,6 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
+https://dev.azure.com/proximus-azure-test/DotnetSSLVerifier/_apis/build/status/victoirj.calculator?branchName=master
 [![Build Status](https://dev.azure.com/proximus-azure-test/DotnetSSLVerifier/_apis/build/status/victoirj.calculator?branchName=master)](https://dev.azure.com/proximus-azure-test/DotnetSSLVerifier/_build/latest?definitionId=17&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
